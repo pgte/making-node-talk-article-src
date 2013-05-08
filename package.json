@@ -1,0 +1,8 @@
+{
+  "name": "my-connected-node-processes",
+  "version": "0.0.1",
+  "dependencies": {
+    "reconnect": "*",
+    "duplex-emitter": "*"
+  }
+}
